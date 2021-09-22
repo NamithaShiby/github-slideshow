@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My name is Namitha shiby
+I am from palai
 Use the left arrow to go back!
